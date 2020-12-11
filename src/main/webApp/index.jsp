@@ -7,6 +7,7 @@
 <body>
 <h1><%= "Hello World!!!"%></h1>
 <br/>
-<a href="">Hello Servlet</a>
+<a href="hello-servlet">Hello Servlet</a>
+<%--link not workking - demo is incomplete--%>
 </body>
 </html>
